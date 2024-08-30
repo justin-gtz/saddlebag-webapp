@@ -1,9 +1,11 @@
 import React from 'react';
-import Background from './components/Background';
+import Header from './components/Header';
 
-const App = () => {
+function App () {
   return (
-    <Background/>
+    <>
+      <Header/>
+    </>
   );
 };
 
