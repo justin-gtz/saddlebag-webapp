@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "2B Automaton",
+        "source": "The Puppets' Bunker",
+        "level": "80"
+    },
+    {
+        "id": 2,
+        "name": "Palico",
+        "source": "The New King on the Block",
+        "level": "70"
+    },
+    {
+        "id": 3,
+        "name": "Piggy",
+        "source": "30,000 MGP",
+        "level": null
+    },
+    {
+        "id": 4,
+        "name": "Kydonia Strolls",
+        "source": "400 Faux Leaves",
+        "level": null
+    },
+    {
+        "id": 5,
+        "name": "Clockwork Cerulean Chaser",
+        "source": "PvP Series 2 - Level 15",
+        "level": null
+    },
+    {
+        "id": 6,
+        "name": "Golden Dhyata",
+        "source": "The Meeting of Minds",
+        "level": "90"
+    },
+    {
+        "id": 7,
+        "name": "Magitek Avenger F1",
+        "source": "Castrum Abania",
+        "level": "69"
+    }
+]
